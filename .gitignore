@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+
+
+contract_transaction/*
+database1/*
+database2/*
+*.pdf
