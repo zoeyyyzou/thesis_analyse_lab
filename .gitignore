@@ -1,7 +1,7 @@
 __pycache__/
 venv/
 
-
+.idea/*
 contract_transaction/*
 database1/*
 database2/*
